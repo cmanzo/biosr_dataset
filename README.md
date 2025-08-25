@@ -2,8 +2,10 @@
 
 ## Overview
 
-This DeepTrackAI repository provides a processed version of the **BioSR** dataset, originally published by [Chang Qiao et al.,  Nature Methods, 2021](https://doi.org/10.1038/s41592-020-01048-5).  
-The original dataset consists of paired low-resolution (LR) and high-resolution (HR) fluorescence microscopy images for training and benchmarking super-resolution reconstruction methods. Low-resolution images are providerd at 9 signal-to-noise levels.
+This DeepTrackAI repository provides a processed version of part of the **BioSR** dataset, originally published by [Chang Qiao et al.,  Nature Methods, 2021](https://doi.org/10.1038/s41592-020-01048-5).  
+The original dataset consists of paired low-resolution (LR) and high-resolution (HR) fluorescence microscopy images for training and benchmarking super-resolution reconstruction methods, covering four biology structures (CCPs, ER, MTs, F-actin), nine signal levels (15-600 average photon count), and two upscaling-factors (linear SIM and non-linear SIM).
+
+This repo only includes the Microtubules folder
 
 The images in this repository have been reformatted and preprocessed to be directly usable in deep learning workflows, while preserving the original content and licensing terms.
 
