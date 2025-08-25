@@ -3,17 +3,17 @@
 ## Overview
 
 This DeepTrackAI repository provides a processed version of the **BioSR** dataset, originally published by [Chang Qiao et al.,  Nature Methods, 2021](https://doi.org/10.1038/s41592-020-01048-5).  
-The original dataset consists of paired low-resolution (LR) and high-resolution (HR) fluorescence microscopy images for training and benchmarking super-resolution reconstruction methods.  
+The original dataset consists of paired low-resolution (LR) and high-resolution (HR) fluorescence microscopy images for training and benchmarking super-resolution reconstruction methods. Low-resolution images are providerd at 9 signal-to-noise levels.
 
 The images in this repository have been reformatted and preprocessed to be directly usable in deep learning workflows, while preserving the original content and licensing terms.
 
 ### Summary
 - **Number of image pairs**:  
-  - Training: 40,320 pairs  
-  - Testing: 2,080 pairs  
+  - Training: 1000 pairs
+  - Validation: 1000 pairs  
+  - Testing: 150 pairs  
 - **Image size**: 128 × 128 pixels  
 - **Format**: 8-bit grayscale PNG images  
-- **Content**: Each pair contains a low-resolution (LR) and a corresponding high-resolution (HR) image.
 
 ---
 
