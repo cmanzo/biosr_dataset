@@ -87,7 +87,7 @@ This replication dataset is based on the original BIOSR dataset. When using this
 
 ### Cite the dataset:
 
-Qiao, Chang; Li, Di. *BioSR: a biological image dataset for super-resolution microscopy.* figshare. Dataset (2020)
+Qiao, Chang; Li, Di. *BioSR: a biological image dataset for super-resolution microscopy.* (2020)
 [https://doi.org/10.6084/m9.figshare.13264793.v9](https://doi.org/10.6084/m9.figshare.13264793.v9)
 
 ```bibtex
