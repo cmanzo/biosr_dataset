@@ -9,11 +9,11 @@ The original dataset consists of paired low-resolution (LR) and high-resolution 
 This repo only includes the Microtubules folder and the images in this repository have been cropped into 128 × 128 pixel patches, saved as 32-bit grayscale TIF files and organized into training/validate/test splits to be directly usable in deep learning workflows, while preserving the original content and licensing terms.
 
 ### Summary
-- **Number of image pairs**:  
+- **Number of Image Pairs**:  
   - Training: 41,040 pairs
   - Validation: 2,160 pairs  
   - Test: 150 HR images × 9 LR signal levels (1,350 LR images total). Each subfolder corresponds to a different signal-to-noise level, reflecting increasing average photon counts (15–600 photons).
-- **Image size**: 128 × 128 pixels  
+- **Image Size**: 128 × 128 pixels  
 - **Format**: 32-bit grayscale TIF images  
 
 ---
