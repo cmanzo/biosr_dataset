@@ -22,8 +22,7 @@ This repo only includes the Microtubules folder and the images in this repositor
 
 - **Title**: BioSR: a biological image dataset for super-resolution microscopy  
 - **Authors**: Chang Qiao, Di Li  
-- **Journal**: *Nature Methods*, 18: 194–202 (2021)
-- **Source**: [figshare (DOI: 10.6084/m9.figshare.13264793.v9)](https://doi.org/10.6084/m9.figshare.13264793.v9) and [Nature Methods article](https://doi.org/10.1038/s41592-020-01048-5)    
+- **Source**: [figshare (DOI: 10.6084/m9.figshare.13264793.v9)](https://doi.org/10.6084/m9.figshare.13264793.v9)   
 - **License**: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 If you use this dataset, please follow the licensing requirements and provide proper attribution to the original authors.
